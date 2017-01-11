@@ -4,7 +4,7 @@ category: thoughts
 tags: beethoven music passion
 ---
 
-![Passion](https://baileycmiller.github.io/blog/assets/passion.png)
+![Passion](https://baileycmiller.github.io/blog/assets/passion1.png)
 
 I’ve heard this quote multiple times, but tonight I heard it once more and thought to myself “Dang, Beethoven. Way to spit mad game.” Because this quote speaks so much truth. As a musician, most of my time is spent practicing technical details and skills, which is not necessarily a bad thing. But how often do I practice passion? When do I sit down and analyze what I want to express through my music and how I want the audience to feel? Not enough. Sure, notes, intonation, dynamics, articulation, and all the other musical elements that make it so moving are important. But without passion, there is nothing.
 
