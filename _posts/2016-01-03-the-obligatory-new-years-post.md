@@ -33,5 +33,5 @@ All I know is that right now, I need to heal. No other resolutions. If gaining a
 
 I still feel like my life is one big, pesky existential crisis, and I still feel abandoned and brokenhearted and sad oftentimes. The New Year (to the extent of my knowledge) did not change any of that. But here’s to hoping that relief will come in time. Maybe sometime soon my brain will become so fed up with being ill that it will launch me on my feet with such force that I won’t be able to fall again. Until that happens, I’m going to make it my mission to take whatever small steps I can to make my brain feel at home and loved.
 
-By David Malone
+![New Years](https://baileycmiller.github.io/blog/assets/IMG_7685.jpg)
 (Photo By David Malone)
