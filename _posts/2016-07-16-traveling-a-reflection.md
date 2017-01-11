@@ -1,10 +1,11 @@
 ---
-title: Traveling: A reflection
+title: Reflection on Traveling
 categories: travel thoughts
 tags: travel thoughts
 ---
 
 Colorado_2
+
 I’m sitting on a 12 hour and 5 minute flight across the Pacific from Brisbane to LA. Two hours before landing, a flight attendant announces over the intercom, “If we have any medical doctors on board please make yourself known to the flight attendant.” I look to the aisle ahead to my right. A woman who looks a few years older than me is lying on the floor, surrounded by two flight attendants and her friend. With no doctors available, they move the woman to a curtained chamber and place an oxygen mask on her face. Thirty minutes before landing, the woman is moved 3 rows ahead of me into a seat and I see a wide stroke of blood on her back. Throughout the flight, another person a few rows ahead vomits into the “Feeling sick?” curtsey paper bag 3 times.
 
 Meanwhile, my anxiety is taking a physical form that no amount of deep breathing can stop. I complain of having heartburn and numbness in my left arm that is not routine for my body. I honestly believe that I might have a heart attack on this plane, no matter how unreasonable that seems.
