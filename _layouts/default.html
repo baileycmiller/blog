@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,100,300,700,700italic,300italic,100italic,400italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic,700' rel='stylesheet' type='text/css'>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Bailey Miller is a photographer, designer, artist, musician, and beyond currently living near Cincinnati, Ohio.">
+  <meta name="author" content="Bailey Miller">
+  <title>Bailey Miller</title>
+  <!-- <link rel="stylesheet" href="css/normalize.min.css"> -->
+  <link rel="stylesheet" href={{ "/css/main.css" | relative_url }}>
+</head>
+<body>
+  {% include header.html %}
+  <div class='content'>
+    {% capture content %}
+      {% for post in site.posts %}
+        <div class='post'>
+          <h2 class="post_title"><a href="/{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          <h4 class='post_date'>{{ post.date | date: "%B %-d, %Y" }}</h4>
+          <p class='post_body'>{{ post.content }}</p>
+          <!-- <small class='post_tags'>Posted in: {{ post.categories | array_to_sentence_string }}</small> -->
+        </div>
+      {% endfor %}
+    {% endcapture %}
+    {{ content | toc_generator }}
+    {{ content }}
+  </div>
+  {% include footer.html %}
+</body>
+</html>
