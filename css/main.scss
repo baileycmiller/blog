@@ -1,0 +1,28 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+/**
+MAIN CSS FILE
+**/
+
+//import all partials, variables first
+@import "variables";
+@import "animations";
+@import "buttons";
+@import "colors";
+@import "jekyll";
+@import "typography";
+@import "wordpress";
+
+@import "blocks/about";
+@import "blocks/body";
+@import "blocks/footer";
+@import "blocks/header";
+@import "blocks/index";
+@import "blocks/work";
+
+@import "vendor/masonry";
+@import "vendor/slick";
+@import "vendor/vendor";
