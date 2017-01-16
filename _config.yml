@@ -21,7 +21,7 @@ title: Blog
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog, relative url uses this
-url: "baileycmiller.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com, absolute url uses this + baseurl
+url: "baileycmiller.github.io" # the base hostname & protocol for your site, e.g. http://example.com, absolute url uses this + baseurl
 twitter_username: millerbaileyc
 github_username:  baileycmiller
 timezone: America/New_York
