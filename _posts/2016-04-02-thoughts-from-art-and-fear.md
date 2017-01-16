@@ -2,6 +2,7 @@
 title:  Thoughts from 'Art and Fear'
 category: thoughts
 tags: thoughts writing art and fear
+layout: post
 ---
 
 “Artists don’t get down to work until the pain of working is exceeded by the pain of not working.”

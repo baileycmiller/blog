@@ -2,6 +2,7 @@
 title: Beethoven, yo
 category: thoughts
 tags: beethoven music passion
+layout: post
 ---
 
 ![Passion](https://baileycmiller.github.io/blog/assets/passion1.png)

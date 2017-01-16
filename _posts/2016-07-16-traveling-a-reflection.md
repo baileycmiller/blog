@@ -2,6 +2,7 @@
 title: Reflection on Traveling
 categories: travel thoughts
 tags: travel thoughts
+layout: post
 ---
 
 Colorado_2

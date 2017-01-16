@@ -2,6 +2,7 @@
 title: Quiet Saturday Night Listening to Radiohead and Thinking About Feeling
 category: thoughts
 tags: thoughts words
+layout: post
 ---
 
 _“If you talk enough sense then you’ll lose your mind”_

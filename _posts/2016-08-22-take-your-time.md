@@ -2,6 +2,7 @@
 title: Take Your Time
 categories: doodles thoughts
 tags: doodles thoughts
+layout: post
 ---
 
 takeyourtime

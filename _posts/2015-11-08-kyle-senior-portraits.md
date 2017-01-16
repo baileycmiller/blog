@@ -2,6 +2,7 @@
 title: Kyle Portraits
 category: portraits
 tags: photography portraits
+layout: post
 ---
 
 ![Kyle 1](https://baileycmiller.github.io/blog/assets/Kyle_5.jpg)

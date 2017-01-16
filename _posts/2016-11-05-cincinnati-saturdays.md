@@ -2,6 +2,7 @@
 title: Cincinnati Saturdays
 categories: photography thoughts
 tags: photography thoughts
+layout: post
 ---
 
 Northside_15

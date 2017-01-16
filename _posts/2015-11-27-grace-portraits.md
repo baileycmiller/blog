@@ -2,6 +2,7 @@
 title: Grace Portraits
 category: portraits
 tags: photography portraits
+layout: post
 ---
 
 ![Grace 1](https://baileycmiller.github.io/blog/assets/GracePreview_3.jpg)

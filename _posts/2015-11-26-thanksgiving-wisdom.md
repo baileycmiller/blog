@@ -2,6 +2,7 @@
 title: Thanksgiving Wisdom
 category: doodles
 tags: design doodle drawing
+layout: post
 ---
 
 ![everything happens so much](https://baileycmiller.github.io/blog/assets/everything.png)

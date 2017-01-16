@@ -2,6 +2,7 @@
 title: Los Angeles
 categories: photography travel
 tags: LA photography travel
+layout: post
 ---
 
 Processed with VSCOcam with b1 preset

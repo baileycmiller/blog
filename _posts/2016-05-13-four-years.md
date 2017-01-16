@@ -2,6 +2,7 @@
 title:  4 Years
 category: thoughts
 tags: thoughts writing college graduation
+layout: post
 ---
 
 _I’m graduating from Miami University tomorrow and I figured I’d go ahead and be nostalgic so that I can get it all out of my system. Plus the world clearly needs another sentimental blog written by a lost graduating college student, obviously._

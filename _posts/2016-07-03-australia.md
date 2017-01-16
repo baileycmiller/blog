@@ -2,6 +2,7 @@
 title:  Australia
 categories: photography travel
 tags: photography travel
+layout: post
 ---
 GoldCoast_28
 Australia, the land down under. The country of numerous dangerous and venomous creatures, kangaroos and koalas, beaches, the Outback, and accents.

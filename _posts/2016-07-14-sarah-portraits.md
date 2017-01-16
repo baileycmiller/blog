@@ -2,6 +2,7 @@
 title:  Sarah Portraits
 category: photography
 tags: photography portraits
+layout: post
 ---
 
 Sarah_144

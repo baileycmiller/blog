@@ -2,6 +2,7 @@
 title: The Obligatory New Year's Post
 category: thoughts
 tags: new year thoughts writing
+layout: post
 ---
 
 _Preface: I am always torn between wanting to engage in the beauty of online community and wanting to live an off the grid lifestyle without technology that Ron Swanson would condone. Half of me feels uncomfortable sharing personal information via the Internet, but the other half feels the need to turn experience into something tangible instead of letting it cloud my brain. With that said, here is my attempt at being uncomfortably personal in an effort to log my life experiences! Woo!_
