@@ -5,7 +5,7 @@ tags: doodles thoughts
 layout: post
 ---
 
-takeyourtime
+![Take your time](https://baileycmiller.github.io/blog/assets/takeyourtime.png)
 
 It’s been a month and 10 days that I’ve been back home from mega-trip 2016. It’s strange to keep defining my life by the time since a trip, but that is the last logical landmark I’ve experienced, so alas. In this month and 10 days, I’ve been trying to get back into the groove of life and what that means for me in such a transitional season. When you’re living out of a suitcase, you quickly realize the aspects of life that you miss and the endeavors you need to spend your time pursuing. When I got back in my beloved bedroom full of all my wonderful musical instruments, books, craft supplies, cameras, classical composer busts, and mini cat figurines I was back in hobby heaven. All that time spent in awesome locations with limited resources left me oh so ready to dive head first into all of my passions once again. I found myself more ready than ever to learn, evolve, and create.
 
@@ -21,7 +21,7 @@ I’ve been getting more serious about making my own music, which is always some
 Upon realizing I cleansed out my accounts while traveling, I started pursuing as many strategies of making money online as I could find. This includes but is not limited to Ebay, Etsy, Upwork, 99Designs, UserTesting.com, focus groups, online surveys, Wonder, and multiple iPhone apps. I then realized that there is no good way to make money online.
 I’ve learned the wonder that traveling can do for your inspiration, productivity, self-improvement, and general interest in life. I’ve been turbo-charged, running full force in every direction that peaks my interest this month and 10 days. But I’ve learned the hard way that sometimes I need to slow it down. When I want something very badly, I lose a handle on my patience. I go 0 to 100 real quick. In the heat of the moment I am blind to the fact that I can not learn a violin concerto or new programming language or *insert difficult but intriguing skill here* in a day. It’s just not possible and it’s not a good way to learn. Too often I set goals too high and beat myself up when I fall short.
 
-todo
+![To do](https://baileycmiller.github.io/blog/assets/todo.png)
 
 There is a quality about me that I simultaneously am grateful for and fear above all else. It’s the desire to be good. My self esteem depends too heavily on my successes and I am devastated by my failure. I need to learn how to get the small things done before tackling the big things, all at once. Practice my scales. Have patience.
 
