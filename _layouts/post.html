@@ -14,7 +14,13 @@
 </head>
 <body>
   {% include header.html %}
-  {{ content }}
+  <div class='content'>
+    <div class='post'>
+      <h2 class='post_title'>{{ page.title }}</h2>
+      <h4 class='post_date'>{{ page.date | date: "%B %-d, %Y" }}</h4>
+      <p class='post_body'>{{ page.content }}</p>
+    </div>
+  </div>
   {% include footer.html %}
 </body>
 </html>
