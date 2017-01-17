@@ -20,7 +20,7 @@ title: Blog
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog, relative url uses this
+baseurl: "blog" # the subpath of your site, e.g. /blog, relative url uses this
 url: "http://baileycmiller.github.io" # the base hostname & protocol for your site, e.g. http://example.com, absolute url uses this + baseurl
 twitter_username: millerbaileyc
 github_username:  baileycmiller
