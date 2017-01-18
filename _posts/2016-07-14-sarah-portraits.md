@@ -17,7 +17,7 @@ Ramblings aside, here’s some of my favorite photos from Sarah’s portrait ses
 ![Sarah 3](https://baileycmiller.github.io/blog/assets/Sarah_151.jpg)
 ![Sarah 4](https://baileycmiller.github.io/blog/assets/SarahBW_31.jpg)
 ![Sarah 5](https://baileycmiller.github.io/blog/assets/SarahBW_9.jpg)
-![Sarah 6](https://baileycmiller.github.io/blog/assets/SarahBW_147.jpg)
+![Sarah 6](https://baileycmiller.github.io/blog/assets/Sarah_147.jpg)
 ![Sarah 7](https://baileycmiller.github.io/blog/assets/Sarah_72.jpg)
 ![Sarah 8](https://baileycmiller.github.io/blog/assets/SarahBW_157.jpg)
 ![Sarah 9](https://baileycmiller.github.io/blog/assets/SarahBW_88.jpg)
