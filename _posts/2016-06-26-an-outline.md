@@ -5,8 +5,8 @@ tags: thoughts travel
 layout: post
 ---
 
-1.jpg
-2.jpg
-3.jpg
-3.5.jpg
-4.jpg
+![1](https://baileycmiller.github.io/blog/assets/1.jpg)
+![2](https://baileycmiller.github.io/blog/assets/2.jpg)
+![3](https://baileycmiller.github.io/blog/assets/3.jpg)
+![4](https://baileycmiller.github.io/blog/assets/3.5.jpg)
+![5](https://baileycmiller.github.io/blog/assets/4.jpg)

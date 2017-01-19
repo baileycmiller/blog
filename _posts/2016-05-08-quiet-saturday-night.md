@@ -5,6 +5,8 @@ tags: thoughts words
 layout: post
 ---
 
+![Mound](https://baileycmiller.github.io/blog/assets/mound.jpg)
+
 _“If you talk enough sense then you’ll lose your mind”_
 -Amber Run
 
@@ -27,3 +29,4 @@ I want to be satisfied.
 Without thinking so hard.
 
 Empty_4
+![Feelings](https://baileycmiller.github.io/blog/assets/Empty_4.jpg)

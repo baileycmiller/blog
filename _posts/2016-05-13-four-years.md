@@ -9,6 +9,8 @@ _I’m graduating from Miami University tomorrow and I figured I’d go ahead an
 
 My first official college class was Physics 111 on a Monday at 11:30am. At this point in time I had absolutely no idea what I wanted to do with my life. I might think I have no idea what I want to do with my life now, but nothing compared to 18 year old me. I’m sure this Freshman me would be thrilled to know that that first physics class that she slaved over ended up being used for nothing (along with 51 other credit hours that counted for nothing except for frequent changes of heart over my career path). Surprise! You switched your major 4 times! As an Engineering turned Math turned Studio Art turned Interactive Media Studies major, my academic planning experience has been traumatic to say the least. I’ve found myself in emotional academic advising meetings at least twice. However, I somehow made it out on time. I wish there was an honor cord for changing your majors a lot because I would have proudly earned it.
 
+![Me Freshman Year](https://baileycmiller.github.io/blog/assets/freshman.jpg)
+
 A photo of freshman me, violin in hand, for reference
 A photo of weird freshman me on the first day of school for reference
 Let us rewind back to my first official college experience. Like most universities, Miami University has a series of welcome events for freshman to make sure that the socially anxious feel discouraged from the get go. As a weird commuter kid, I was desperate for some kind of social connections so I was tricked into the strangeness that is welcome week. You know how it goes, group events full of ice-breakers and over enthusiastic smiles from people that are extremely happy and extroverted. I tried my best to attend some of the welcome events and feel part of the pack but it ended up just being pretty uncomfortable. Message to 4 years ago me: nothing has changed. I went to these events willingly because although I’m primarily an introvert, I’m the type of introvert who likes to be around a lot of people while not talking to any of them. Like being alone in Times Square. It’s a strange trait that’s given my social life more grief than it probably has needed to experience. Anyway, the welcome events got me off to a great start with this social dynamic, thanks Miami!
@@ -21,7 +23,7 @@ Aside from issues of the social sphere, school’s been cool. Here’s some of t
 
 -Lived in Chicago and had an internship there for a summer
 
-5
+![Chicago](https://baileycmiller.github.io/blog/assets/5.jpg)
 
 -Played violin publicly by myself numerous times and survived (and got better at it!)
 
@@ -29,7 +31,7 @@ Aside from issues of the social sphere, school’s been cool. Here’s some of t
 
 -Played in Carnegie Hall with Symphony Orchestra
 
-
+![Carnegie Hall](https://baileycmiller.github.io/blog/assets/carnegie.jpg)
  rsz_miami_at_carnegie_hall1
 
 -Saw Beyonce in concert twice
@@ -38,7 +40,7 @@ Aside from issues of the social sphere, school’s been cool. Here’s some of t
 
 -Went to the Palm Springs Photo Festival for a workshop by one of my favorite photographers, Ian Ruhter, and hung out with Gary Oldman for four days without realizing who he was until he drove up in a Porsche
 
-IMG_3076
+![Palm Springs Photo Fest](https://baileycmiller.github.io/blog/assets/palmsprings.jpg)
 
 -Saw a squirrel eating pizza
 
@@ -46,7 +48,7 @@ IMG_3076
 
 -Hiked 17 Miles on the Appalachian Trail in Virginia
 
-AT_106
+![Appalachian Trail](https://baileycmiller.github.io/blog/assets/AT_106.jpg)
 
 -Learned how to make tintypes through a summer research project
 
