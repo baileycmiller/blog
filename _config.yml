@@ -30,8 +30,10 @@ timezone: America/New_York
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
 sass:
   sass_dir: _sass
+paginate: 5
