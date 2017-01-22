@@ -22,3 +22,28 @@
 .post_tags {
   text-align: center;
 }
+
+.video, iframe {
+  display: block;
+  width: 560px;
+  height: 315px;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.align-center {
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+
+.float-left {
+  float: left;
+  width: calc(50% - 10px);
+  padding-right: 10px;
+}
+
+.float-right {
+  width: calc(50% - 10px);
+  padding-left: 10px;
+}
