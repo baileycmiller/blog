@@ -14,28 +14,53 @@ Sometimes I feel like I’m not really cut out to be a portrait photographer. I�
 Ramblings aside, here’s some of my favorite photos from Sarah’s portrait session.
 
 ![Sarah 2](https://baileycmiller.github.io/blog/assets/SarahBW_40.jpg)
+
 ![Sarah 3](https://baileycmiller.github.io/blog/assets/Sarah_151.jpg)
+
 ![Sarah 4](https://baileycmiller.github.io/blog/assets/SarahBW_31.jpg)
+
 ![Sarah 5](https://baileycmiller.github.io/blog/assets/SarahBW_9.jpg)
+
 ![Sarah 6](https://baileycmiller.github.io/blog/assets/Sarah_147.jpg)
+
 ![Sarah 7](https://baileycmiller.github.io/blog/assets/Sarah_72.jpg)
+
 ![Sarah 8](https://baileycmiller.github.io/blog/assets/SarahBW_157.jpg)
+
 ![Sarah 9](https://baileycmiller.github.io/blog/assets/SarahBW_88.jpg)
+
 ![Sarah 10](https://baileycmiller.github.io/blog/assets/Sarah_207.jpg)
+
 ![Sarah 11](https://baileycmiller.github.io/blog/assets/SarahBW_161.jpg)
+
 ![Sarah 12](https://baileycmiller.github.io/blog/assets/Sarah_181.jpg)
+
 ![Sarah 13](https://baileycmiller.github.io/blog/assets/SarahBW_67.jpg)
+
 ![Sarah 14](https://baileycmiller.github.io/blog/assets/SarahBW_186.jpg)
+
 ![Sarah 15](https://baileycmiller.github.io/blog/assets/Sarah_166.jpg)
+
 ![Sarah 16](https://baileycmiller.github.io/blog/assets/SarahBW_195.jpg)
+
 ![Sarah 17](https://baileycmiller.github.io/blog/assets/SarahBW_174.jpg)
+
 ![Sarah 18](https://baileycmiller.github.io/blog/assets/Sarah_156.jpg)
+
 ![Sarah 19](https://baileycmiller.github.io/blog/assets/SarahBW_199.jpg)
+
 ![Sarah 20](https://baileycmiller.github.io/blog/assets/Sarah_162.jpg)
+
 ![Sarah 21](https://baileycmiller.github.io/blog/assets/Sarah_133.jpg)
+
 ![Sarah 22](https://baileycmiller.github.io/blog/assets/SarahBW_187.jpg)
+
 ![Sarah 23](https://baileycmiller.github.io/blog/assets/Sarah_131.jpg)
+
 ![Sarah 24](https://baileycmiller.github.io/blog/assets/Sarah_105.jpg)
+
 ![Sarah 25](https://baileycmiller.github.io/blog/assets/SarahBW_53.jpg)
+
 ![Sarah 26](https://baileycmiller.github.io/blog/assets/Sarah_98.jpg)
+
 ![Sarah 27](https://baileycmiller.github.io/blog/assets/SarahBW_178.jpg)

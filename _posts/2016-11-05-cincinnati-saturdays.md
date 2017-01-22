@@ -21,32 +21,34 @@ So basically, I need to keep walking. I came up with this idea: every Saturday (
 
 I came up with this idea today while exploring one of my new favorite spots: Northside. It’s a shame I didn’t think of this idea last weekend when I took a 7 mile trek to Findlay Market and clear to Kentucky and back. My glutes felt that. Today I wandered around in observation, stopping to eat one of the best chocolate chip cookies I’ve ever had at Sidewinder Coffee and finding the planner of my dreams at Shake It Records (an unlikely place to find a planner, which added to the enchantment). The neighborhood reminded me of a more diverse Yellowsprings and was a very pleasant place to walk and soak up the last of the Daylight Savings Time sun. I liked the unexpectedness of what you might see on the street. Northside isn’t as polished as other Cincinnati neighborhoods, but much more colorful and eclectic, making for many photos. After that I headed back to my own neighborhood for an afternoon walk to the Cincinnati Art Museum.
 
-Northside
-Northside_10
-Northside_3
-Northside_13
-Northside_1
-Northside_14
-Northside_7
-Northside_8
-Northside_9
-Northside_5
-Northside_4
-Northside_6
-Northside_2
+
 
 ![Northside 2](https://baileycmiller.github.io/blog/assets/Northside.jpg)
+
 ![Northside 3](https://baileycmiller.github.io/blog/assets/Northside_10.jpg)
+
 ![Northside 4](https://baileycmiller.github.io/blog/assets/Northside_3.jpg)
+
 ![Northside 5](https://baileycmiller.github.io/blog/assets/Northside_13.jpg)
+
 ![Northside 6](https://baileycmiller.github.io/blog/assets/Northside_1.jpg)
+
 ![Northside 7](https://baileycmiller.github.io/blog/assets/Northside_14.jpg)
+
 ![Northside 8](https://baileycmiller.github.io/blog/assets/Northside_7.jpg)
+
 ![Northside 9](https://baileycmiller.github.io/blog/assets/Northside_8.jpg)
+
 ![Northside 10](https://baileycmiller.github.io/blog/assets/Northside_9.jpg)
+
 ![Northside 11](https://baileycmiller.github.io/blog/assets/Northside_5.jpg)
+
 ![Northside 12](https://baileycmiller.github.io/blog/assets/Northside_4.jpg)
+
 ![Northside 13](https://baileycmiller.github.io/blog/assets/Northside_6.jpg)
+
 ![Northside 14](https://baileycmiller.github.io/blog/assets/Northside_2.jpg)
+
+
 
 I can’t wait to keep walking. Before I walk, I always worry that the residents of the place will be able to point me out as an outsider. Or that they’ll look at me funny for seeing the potential in things that don’t seem worthy of photographing. I worry that my effort to get to this place will be for naught and I will just end up tired. But today was a very good day. I discovered treasures. I was present. And I was very glad I walked.

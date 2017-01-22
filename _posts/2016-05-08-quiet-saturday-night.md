@@ -28,5 +28,4 @@ I want to be satisfied.
 
 Without thinking so hard.
 
-Empty_4
 ![Feelings](https://baileycmiller.github.io/blog/assets/Empty_4.jpg)
