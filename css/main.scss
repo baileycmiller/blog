@@ -7,22 +7,13 @@
 MAIN CSS FILE
 **/
 
-//import all partials, variables first
+@import "vendor/normalize";
+
+@import "fonts";
 @import "variables";
 @import "animations";
-@import "buttons";
-@import "colors";
 @import "jekyll";
 @import "typography";
-@import "wordpress";
 
-@import "blocks/about";
-@import "blocks/body";
+@import "blocks/menu";
 @import "blocks/footer";
-@import "blocks/header";
-@import "blocks/index";
-@import "blocks/work";
-
-@import "vendor/masonry";
-@import "vendor/slick";
-@import "vendor/vendor";
