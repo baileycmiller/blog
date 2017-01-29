@@ -1,26 +1,32 @@
 .content {
   width: 700px;
-  margin: 40px auto;
+  margin: auto;
 }
 
 .post {
-  margin-bottom: 40px;
+  margin-top: 150px;
+
 }
 
 .post_title {
+  text-align: left;
 
+  & a {
+    color: $black-color;
+  }
 }
 
 .post_date {
-
+  text-align: left;
+  margin-bottom: 50px;
 }
 
 .post_body {
-
+  text-align: left;
 }
 
 .post_tags {
-  text-align: center;
+
 }
 
 .video, iframe {
@@ -46,4 +52,12 @@
 .float-right {
   width: calc(50% - 10px);
   padding-left: 10px;
+}
+
+.pagination {
+  margin: 60px auto 30px;
+}
+
+img {
+  max-width: 100%;
 }
