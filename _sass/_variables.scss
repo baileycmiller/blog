@@ -5,7 +5,16 @@ Variables
 $font-headings: 'Brandon Grotesque', Helvetica, Arial, sans-serif;
 $font-body: 'Brandon Grotesque', Helvetica, Arial, sans-serif;
 
-$red-color: #a42644;
+$red-color: lighten(#e5744c,20%);
 $black-color: #333333;
-$background-color: #f6f6f6;
+$background-color: #e24242;
 $white-color: #ffffff;
+
+$breakpoint-sm: 768px;
+$breakpoint-lg: 1000px;
+
+$space-xsmall: 10px;
+$space-small: 20px;
+$space-medium: 40px;
+$space-large: 70px;
+$space-xlarge: 120px;

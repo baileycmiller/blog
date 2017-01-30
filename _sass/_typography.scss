@@ -1,17 +1,22 @@
+/**
+Font styles
+font-size, font-family, font-weight, font-style, text-transform, text-decoration
+DOES NOT INCLUDE TEXT-ALIGN
+**/
+
+// Size //
 html {
-  font-size: 1em;
+  font-size: 18px !important;
 }
 
 body {
   font-family: $font-body;
   font-weight: 400;
   line-height: 1.45;
-  color: $black-color;
 }
 
-p, li {
+p {
   margin-bottom: 1.3em;
-  font-size: 1.2em;
 }
 
 h1,
@@ -25,26 +30,26 @@ h4 {
 
 h1 {
   margin-top: 0;
-  font-size: 3.998em;
+  font-size: 3.157em;
 }
 
 h2 {
-  font-size: 2.827em;
+  font-size: 2.369em;
 }
 
 h3 {
-  font-size: 1.999em;
+  font-size: 1.777em;
 }
 
 h4 {
-  font-size: 1.414em;
+  font-size: 1.333em;
 }
 
 .font_small,
 small {
-  font-size: 0.9em;
+  font-size: 0.75em;
 }
 
-a{
+a {
   text-decoration: none;
 }

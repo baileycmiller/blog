@@ -1,0 +1,20 @@
+
+html, body {
+    color: $black-color;
+    background-color: gray;
+    padding: 0px;
+    margin: 0px;
+    max-height: 100%;
+}
+
+a {
+  color: $red-color;
+
+  &:hover {
+    color: $black-color;
+  }
+}
+
+img {
+    max-width: 100%;
+}
