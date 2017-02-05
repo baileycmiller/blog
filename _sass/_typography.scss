@@ -53,5 +53,10 @@ small {
 
 a {
   text-decoration: none;
-  font-family: $font-headings;
+  font-family: $font-body;
+  color: $third-color;
+
+  &:hover {
+    color: $secondary-color;
+  }
 }

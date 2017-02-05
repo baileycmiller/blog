@@ -1,18 +1,10 @@
 
 html, body {
-    color: $black-color;
-    background-color: white;
+    color: $foreground-color;
+    background-color: $background-color;
     padding: 0px;
     margin: 0px;
     max-height: 100%;
-}
-
-a {
-  color: $red-color;
-
-  &:hover {
-    color: $black-color;
-  }
 }
 
 img {
@@ -20,5 +12,5 @@ img {
 }
 
 .content {
-  @extend .u-push-xl-top;
+  @extend .u-push-xl-top, .u-push-xl-bottom;
 }
