@@ -2,17 +2,18 @@
 Button styles
 **/
 
-// .button {
-//   text-align: center;
-//   padding: 10px 20px;
-//   border: 1px solid $red-color;
-//   width: 140px;
-//   margin: 30px auto;
-//   display: block;
-//   color: $red-color;
-// }
-//
-// .button:hover {
-//     color: $white-color;
-//     background: $red-color;
-// }
+.button {
+  text-align: center;
+  padding: 10px 20px;
+  background-color: $foreground-color;
+  border: 5px solid $background-color;
+  color: $background-color;
+  display: block;
+  box-sizing: border-box;
+}
+
+.button:hover {
+    border: 5px solid $foreground-color;
+    background-color: $background-color;
+    color: $foreground-color;
+}

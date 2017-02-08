@@ -263,6 +263,40 @@
   }
 }
 
+////////// Alignment //////////
+
+.u-align {
+
+  &-middle {
+    vertical-align: middle;
+  }
+
+  &-top {
+    vertical-align: top;
+  }
+
+  &-bottom {
+    vertical-align: bottom;
+  }
+
+  &-baseline {
+    vertical-align: baseline;
+  }
+
+  &-left {
+    text-align: left;
+  }
+
+  &-right {
+    text-align: right;
+  }
+
+  &-center {
+    text-align: center;
+  }
+}
+
+
 // TYPOGRAPHY //
 
 .u-text-italic {
@@ -273,6 +307,18 @@
   text-decoration: underline;
 }
 
+.u-text-cross {
+  text-decoration: line-through;
+}
+
 .u-text-center {
   text-align: center;
+}
+
+.u-text-font-body {
+  font-family: $font-body;
+}
+
+.u-text-font-headings {
+  font-family: $font-headings;
 }

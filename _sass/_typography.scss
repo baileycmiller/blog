@@ -6,7 +6,11 @@ DOES NOT INCLUDE TEXT-ALIGN
 
 // Size //
 html {
-  font-size: 19px !important;
+  font-size: 16px !important;
+
+  @media screen and (min-width: $breakpoint-sm) {
+    font-size: 19px !important;
+  }
 }
 
 body {
@@ -54,9 +58,9 @@ small {
 a {
   text-decoration: none;
   font-family: $font-body;
-  color: $third-color;
+  color: $color-3;
 
   &:hover {
-    color: $secondary-color;
+    text-decoration: underline;
   }
 }
