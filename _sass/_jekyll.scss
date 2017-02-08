@@ -14,9 +14,11 @@ body {
 
 .post_title {
   text-align: left;
+  font-family: $font-headings !important;
 
   & a {
     color: $foreground-color;
+    font-family: $font-headings !important;
   }
 }
 
