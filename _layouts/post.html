@@ -53,12 +53,14 @@
       if (st > lastScrollTop && st > logoHeight){
           // Scroll Down
           $('.item--logo').removeClass('.item--logo').addClass('logo-up');
-          $('.menu').removeClass('.menu').addClass('menu-up');
+          $('.menu--top').removeClass('.menu--top').addClass('menu-up');
+          $('.menu--bottom').removeClass('.menu--bottom').addClass('menu-up');
       } else {
           // Scroll Up
           if(st + $(window).height() < $(document).height()) {
               $('.item--logo').removeClass('logo-up').addClass('.item--logo');
-              $('.menu').removeClass('menu-up').addClass('.menu');
+              $('.menu-up').removeClass('menu-up').addClass('.menu--top');
+              $('.menu-up').removeClass('menu-up').addClass('.menu--bottom');
           }
       }
 
