@@ -1,5 +1,5 @@
 ---
-title: A Noncomprehensive List of the Things I Worried About This Week
+title: An Incomprehensive List of the Things I Worried About This Week
 category: thoughts
 tags: about personal thoughts words
 layout: post
