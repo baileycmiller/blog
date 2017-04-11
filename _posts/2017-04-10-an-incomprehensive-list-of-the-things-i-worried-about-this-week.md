@@ -9,14 +9,13 @@ layout: post
 - My cat getting lead poisoning
 - Becoming radioactive
 - Lyme Disease
-- Bringing my ladder from outside and possibly scattering the harmful dust that came out of my ceiling when I hung a lamp one time
+- Bringing my ladder in from outside and possibly scattering the harmful dust that came out of my ceiling when I hung a lamp one time
 - Breaking and entering
 - Being perceived as very annoying
 - Social media addiction
-- My happiness being a lie
 - A tick family crawling out of my ceiling
 - Having too many possessions
-- My violin possibly wanting to give up on me because I'm awful
+- My violin possibly wanting to give up on me because I'm declining
 - My tap water being untrustworthy
 - Ibuprofen and Lexapro interacting
 - Swinging my towel across the ceiling and possibly scattering asbestos
