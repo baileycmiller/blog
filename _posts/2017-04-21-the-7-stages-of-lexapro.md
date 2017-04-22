@@ -8,7 +8,7 @@ layout: post
 _“You ain’t never seen nothing crazier than this ***** when he off his Lexapro”_
 
 <div style="text-align: right">-Kanye West</div>
-<br/><br/>
+<br/>
 
 A few months ago I freaked out at an airport. During the three hour drive to the Phoenix Sky Harbor Airport, my lovely friend, Laura, put up with my steady descent into the madness that is my newly-developed-pre-flight-anxiety. My breathing was labored, my arms and feet were going numb, my head felt like a helium balloon, and my bowels were having a heyday (TMI, whatevs).
 
