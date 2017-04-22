@@ -14,13 +14,9 @@ A few months ago I freaked out at an airport. During the three hour drive to the
 
 Before and after this episode, I had mini versions of these bizarre freak-out sessions. “The dizziness” occurred every day for about a month. It crept up at work, at the grocery, while driving over bridges, in conversation, while playing violin in orchestra, and while eating lunch with friends. The likelihood of the dizziness happening increased when I felt trapped in a place, situation, or conversation. The weird thing was that there seemed to be no cause. I was perfectly satisfied and happy in my life.
 
-I got in to see a doctor as soon as I realized that the dizziness wasn’t going to go away. Knowing that I had anxiety issues in the past, my doctor prescribed the selective serotonin reuptake inhibitor, Lexapro with minimal questions asked. Unsatisfied with this easy way out of a problem that could be much bigger, I visited another doctor.
+I got in to see a doctor as soon as I realized that the dizziness wasn’t going to go away. Knowing that I had anxiety issues in the past, my doctor prescribed the selective serotonin reuptake inhibitor, Lexapro with minimal questions asked. I was hesitant to go down this path becuase this wasn’t my first encounter with a SSRI. Two years ago I was on Zoloft for 3 months, but it didn’t change anything one bit. Zoloft didn’t seem to vibe with my brain chemistry, so I gave up on medication. Suffice to say I didn’t have high hopes my second time around the SSRI merry-go-round.
 
-As usual, I did a lot of research online and decided that I was probably anemic. Wha-la! No wonder I was so frail and faint! The power of self-diagnosis! Nope, doc #2 said I did not “look anemic” and told me to take my Lexapro. So I submitted to his requests. Two months later and here I am.
-
-This wasn’t my first encounter with a SSRI. Two years ago I was on Zoloft for 3 months, but it didn’t change anything one bit. Zoloft didn’t seem to vibe with my brain chemistry, so I gave up on medication. Suffice to say I didn’t have high hopes my second time around the SSRI merry-go-round.
-
-The whole concept of SSRIs is pretty nuts. If you take this tiny pill every day, it promises to make you feel whole. Doctors hand them out like candy, too. What seems to be the best course of action when a mentally ill person needs help? Let’s give that person a pill that may or may not work based on how their body chemistry decides to respond to it, wait 3 months, and see if it works! Good plan! (Disclaimer: I am not a medical professional.)
+Unsatisfied with this easy way out of a problem that could be much bigger, I visited another doctor. As usual, I did a lot of research online and decided that I was probably anemic. Wha-la! No wonder I was so frail and faint! The power of self-diagnosis! Nope, doc #2 said I did not “look anemic” and told me to take my Lexapro. So I submitted to his requests. Two months later and here I am.
 
 Mental illness is serious, but it doesn’t need to be an overweight elephant in the room. I’m not an overly open person, but sharing this doesn’t feel like a big deal. I used to feel shame, but this time around with mental illness it felt less mysterious and more tangible. I talk about my “dizzy” time like I do a cold. I don’t want pity. I don’t think I’ve done anything heroic. I want to make light of the madness that is the mind and laugh about it.
 
@@ -35,7 +31,7 @@ Everyone has their own crazy, but some crazies are more mainstream than others. 
 
 You’ve written down your symptoms on a folded napkin. You’ve spent hours on WebMD even though your friends tell you that you should block it from your web browser. Your doctor-induced panic skyrockets as you sit in the waiting room, most likely filling out insurance papers incorrectly. The doctor calls you in. “Have you tried eating a well-balanced diet and exercising?” Five minutes later he sends you out the door with a prescription in exchange for your folded napkin. All fixed!
 
-# The “Do I really need to take this? Maybe I just have an inner ear infection” Stage
+## The “Do I really need to take this? Maybe I just have an inner ear infection” Stage
 
 You didn’t have this one? Oh okay, nevermind.
 
