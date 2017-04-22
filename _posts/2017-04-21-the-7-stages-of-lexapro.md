@@ -18,7 +18,7 @@ I got in to see a doctor as soon as I realized that the dizziness wasn’t going
 
 As usual, I did a lot of research online and decided that I was probably anemic. Wha-la! No wonder I was so frail and faint! The power of self-diagnosis! Nope, doc #2 said I did not “look anemic” and told me to take my Lexapro. So I submitted to his requests. Two months later and here I am.
 
-This wasn’t my first encounter with a SSRI. Two years ago I was on Zoloft for 3 months, but it didn’t change anything one bit. Zoloft didn’t seem to vibe with my brain chemistry, so I gave up on medication. Suffice to say I didn’t have high hopes the second time around the SSRI merry-go-round.
+This wasn’t my first encounter with a SSRI. Two years ago I was on Zoloft for 3 months, but it didn’t change anything one bit. Zoloft didn’t seem to vibe with my brain chemistry, so I gave up on medication. Suffice to say I didn’t have high hopes my second time around the SSRI merry-go-round.
 
 The whole concept of SSRIs is pretty nuts. If you take this tiny pill every day, it promises to make you feel whole. Doctors hand them out like candy, too. What seems to be the best course of action when a mentally ill person needs help? Let’s give that person a pill that may or may not work based on how their body chemistry decides to respond to it, wait 3 months, and see if it works! Good plan! (Disclaimer: I am not a medical professional.)
 
@@ -29,13 +29,13 @@ Here are the 7 stages of Lexapro as told by a non-medical professional:
 
 ## Acceptance
 
-Everyone has their own crazy, but some crazies are more mainstream than others. Mental illness is no joke. It enters your life demanding your undivided attention. It’s so common that it’s starting to feel like the new hotness. Whether you suffer from depression, anxiety, OCD, bipolar disorder, PTSD, or some other concoction of disorders, you may someday reach a point where you’re ready to open the door to the promise of a better life that medication advertises. We mentally ill folk all have our reasons for wanting to go medicated. Find your muse!
+Everyone has their own crazy, but some crazies are more mainstream than others. Mental illness is no joke. It enters your life demanding your undivided attention. It’s so common that it’s starting to feel like the new hotness. We mentally ill folk all have our reasons for wanting to go medicated. Find your muse!
 
 ## The Doctor’s Appointment
 
 You’ve written down your symptoms on a folded napkin. You’ve spent hours on WebMD even though your friends tell you that you should block it from your web browser. Your doctor-induced panic skyrockets as you sit in the waiting room, most likely filling out insurance papers incorrectly. The doctor calls you in. “Have you tried eating a well-balanced diet and exercising?” Five minutes later he sends you out the door with a prescription in exchange for your folded napkin. All fixed!
 
-The “Do I really need to take this? Maybe I just have in inner ear infection” Stage
+# The “Do I really need to take this? Maybe I just have an inner ear infection” Stage
 
 You didn’t have this one? Oh okay, nevermind.
 
@@ -49,7 +49,7 @@ Sleep, yawn, sleep, yawn, sleep. Losing motivation to do all life activities has
 
 ## Freedom
 
-I’M HAPPIER THAT I’VE EVER FELT IN MY LIFE AND DIDN’T KNOW I COULD BE SO EASY GOING??? MARRY ME, LEXAPRO!
+"I’M HAPPIER THAT I’VE EVER FELT IN MY LIFE AND DIDN’T KNOW I COULD BE SO EASY GOING??? MARRY ME, LEXAPRO!""
 
 ## The Inevitable End
 
@@ -59,4 +59,6 @@ I’M HAPPIER THAT I’VE EVER FELT IN MY LIFE AND DIDN’T KNOW I COULD BE SO E
 
 After two months on Lexapro, I am in the freedom stage. I didn’t know what to expect when I went on this mysterious medication, but I can say that it has gone seamlessly so far. There were days in the beginning where I thought my side effects would last forever, but they wore off as expected. I love Lexapro because I no longer have physical symptoms of anxiety, but a twinge of darkness still exists in me. I wouldn’t want my anxious mind to be completely healed. I would be a pretty boring person without a hint of crazy. After all, [mental illness has been linked to creativity](https://www.fastcompany.com/1681970/does-creativity-come-with-a-price-new-insight-on-creatives-and-mental-illness), which is cool. I still look under the bed every night and convince myself I have diseases on the Internet, but I’m no longer as burdened by it.
 
-I can’t ensure that Lexapro will work for you. Finding a SSRI is like making your first move on that Windows XP game called Minesweeper; you may or may not choose a bomb. For what it’s worth, if you’re going through something I want you to know that I was going through something too but I found a way out that worked. I hope you do too.
+I can’t ensure that Lexapro will work for you. Finding a SSRI is like making your first move on that Windows XP game called Minesweeper; you'll either get a number or a scary bomb. (Okay, maybe it's not totally the same.)
+
+For what it’s worth, if you’re going through something I want you to know that I was going through something too. It took awhile, but I finally found a way out that worked. I hope you do too.
