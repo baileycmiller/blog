@@ -6,6 +6,7 @@ layout: post
 ---
 
 _“You ain’t never seen nothing crazier than this ***** when he off his Lexapro”_
+
 -Kanye West
 
 A few months ago I freaked out at an airport. During the three hour drive to the Phoenix Sky Harbor Airport, my lovely friend, Laura, put up with my steady descent into the madness that is my newly-developed-pre-flight-anxiety. My breathing was labored, my arms and feet were going numb, my head felt like a helium balloon, and my bowels were having a heyday (TMI, whatevs).
@@ -53,6 +54,7 @@ I’M HAPPIER THAT I’VE EVER FELT IN MY LIFE AND DIDN’T KNOW I COULD BE SO E
 
 “Do I stay on Lexapro for the rest of my life or will the magic brain chemicals transform me into a functioning human being someday? Will it get recalled? Am I fueling Big Pharma and their greedy agenda? Will it destroy my heart, liver, immune system, stomach, feet muscles, nose cartilage, eyes, and/or lungs?”
 
+--
 
 After two months on Lexapro, I am in the freedom stage. I didn’t know what to expect when I went on this mysterious medication, but I can say that it has gone seamlessly so far. There were days in the beginning where I thought my side effects would last forever, but they wore off as expected. I love Lexapro because I no longer have physical symptoms of anxiety, but a twinge of darkness still exists in me. I wouldn’t want my anxious mind to be completely healed. I would be a pretty boring person without a hint of crazy. After all, [mental illness has been linked to creativity](https://www.fastcompany.com/1681970/does-creativity-come-with-a-price-new-insight-on-creatives-and-mental-illness), which is cool. I still look under the bed every night and convince myself I have diseases on the Internet, but I’m no longer as burdened by it.
 
