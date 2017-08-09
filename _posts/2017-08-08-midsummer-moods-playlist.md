@@ -9,4 +9,4 @@ layout: post
 
 Due to the vacancy that mixed CD burning has left in my heart with the infiltration of streaming music services, I present to you a _playlist_. A lot of inspiring music—new and old—found its way to me this summer. And although it's a bit past _midsummer_, it's the time I'm holding on to. (Fall is depressing).
 
-Apologies for Spotify people. I like Apple Music better.
+Apologies to Spotify people. I like Apple Music better.
