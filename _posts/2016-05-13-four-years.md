@@ -10,9 +10,8 @@ _I’m graduating from Miami University tomorrow and I figured I’d go ahead an
 My first official college class was Physics 111 on a Monday at 11:30am. At this point in time I had absolutely no idea what I wanted to do with my life. I might think I have no idea what I want to do with my life now, but nothing compared to 18 year old me. I’m sure this Freshman me would be thrilled to know that that first physics class that she slaved over ended up being used for nothing (along with 51 other credit hours that counted for nothing except for frequent changes of heart over my career path). Surprise! You switched your major 4 times! As an Engineering turned Math turned Studio Art turned Interactive Media Studies major, my academic planning experience has been traumatic to say the least. I’ve found myself in emotional academic advising meetings at least twice. However, I somehow made it out on time. I wish there was an honor cord for changing your majors a lot because I would have proudly earned it.
 
 ![Me Freshman Year](https://baileycmiller.github.io/blog/assets/freshman.jpg)
+<small>A photo of weird freshman me on the first day of school for reference</small>
 
-A photo of freshman me, violin in hand, for reference
-A photo of weird freshman me on the first day of school for reference
 Let us rewind back to my first official college experience. Like most universities, Miami University has a series of welcome events for freshman to make sure that the socially anxious feel discouraged from the get go. As a weird commuter kid, I was desperate for some kind of social connections so I was tricked into the strangeness that is welcome week. You know how it goes, group events full of ice-breakers and over enthusiastic smiles from people that are extremely happy and extroverted. I tried my best to attend some of the welcome events and feel part of the pack but it ended up just being pretty uncomfortable. Message to 4 years ago me: nothing has changed. I went to these events willingly because although I’m primarily an introvert, I’m the type of introvert who likes to be around a lot of people while not talking to any of them. Like being alone in Times Square. It’s a strange trait that’s given my social life more grief than it probably has needed to experience. Anyway, the welcome events got me off to a great start with this social dynamic, thanks Miami!
 
 Culture at Miami has also been an interesting experience. I remember freshman year wondering why the heck everyone had the same purse. I remember trying to figure out what the things were called before finally googling the right thing and stumbling upon something called a “Longchamp.” Another haunting question in the fashion sphere has been basketball jersey Saturday. There are many mysteries of college fashion that I will never be able to decode. I mean, I have no room to talk about fashion sense anyway. There’s many weird things that college students do, and I must admit I tried to adapt a few of them. I tried to eat salad for a few days, but it ended badly. I still don’t get the hype behind that.
@@ -32,7 +31,6 @@ Aside from issues of the social sphere, school’s been cool. Here’s some of t
 -Played in Carnegie Hall with Symphony Orchestra
 
 ![Carnegie Hall](https://baileycmiller.github.io/blog/assets/carnegie.jpg)
- rsz_miami_at_carnegie_hall1
 
 -Saw Beyonce in concert twice
 
