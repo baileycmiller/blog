@@ -4,6 +4,8 @@ category: thoughts
 tags: thoughts writing conferences
 layout: post
 ---
+_Originally posted at [teamgaslight.com](https://teamgaslight.com/blog/deep-stuff-from-adobe-max-2017)_
+
 
 ![Adobe Max](https://baileycmiller.github.io/blog/assets/max.jpg)
 
