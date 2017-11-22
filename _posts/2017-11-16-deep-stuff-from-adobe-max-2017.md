@@ -30,6 +30,7 @@ Okay, now we can get to the deep stuff.
 
 ## Expression
 
+<br/>
 _“It’s in you and it’s gotta come out.”_
 
 <div style="text-align: right">-James Victore</div>
@@ -38,6 +39,7 @@ _“It’s in you and it’s gotta come out.”_
 
 ### The Internal Struggle
 
+<br/>
 _“I absolutely hate myself at the same time I love myself. That dichotomy is the fuel for my creative process.”_
 <div style="text-align: right">- Jonathan Adler</div>
 <br/>
@@ -49,6 +51,7 @@ Jonathan Adler says he’s very self-aware, ruminative, overthinking, and contra
 
 ### Failure
 
+<br/>
 _“You need to be able to control how much failure affects you so that it doesn’t shut you down. That can be where the biggest growth spurts happen.”_
 <div style="text-align: right">- Jon Favreau</div>
 <br/>
@@ -58,6 +61,7 @@ It seemed like the one subject every speaker at Adobe Max had in common was fail
 
 ### Purpose
 
+<br/>
 _“Put it in your work.”_
 <div style="text-align: right">- James Victore</div>
 <br/>
@@ -74,6 +78,8 @@ In Noreen Morioka’s “Creative Group Therapy” [session](https://max.adobe.c
 To not go crazy in this life, you need to have peace with all the uncertainties. This is hard for me to reckon with. But then I think about all the ways that creativity brings meaning into my life and I feel peace. No matter what happens, I know I can express ideas and emotions in a fresh way. I should be open to all scenarios. Not everyone has the privilege of knowing a creative tool or having multiple outlets like we can as designers / developers / etc. That is fulfilling.
 
 ## Brains
+
+<br/>
 _“A brain that can’t feel can’t make a decision”_
 <div style="text-align: right">- Adam Morgan</div>
 <br/>
