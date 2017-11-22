@@ -28,14 +28,15 @@ Okay, now we can get to the deep stuff.
 
 ## Expression
 
->“It’s in you and it’s gotta come out.”
->- James Victore
+_“It’s in you and it’s gotta come out.”_
+
+<div style="text-align: right">-James Victore</div>
 
 
 ### The Internal Struggle
 
-> “I absolutely hate myself at the same time I love myself. That dichotomy is the fuel for my creative process.”
-> - Jonathan Adler
+_“I absolutely hate myself at the same time I love myself. That dichotomy is the fuel for my creative process.”_
+<div style="text-align: right">- Jonathan Adler</div>
 
 My favorite personality at Adobe Max was Jonathan Adler. This potter, designer, and author has a fiery spirit and an honest view of himself that fuels his creative journey in a fresh way. I’m always privy to people that can be open about their mental struggles in a way that is inspiring, honest, and/or funny. This is what Jonathan Adler was in his [keynote](https://max.adobe.com/sessions/max-online/#20423).
 
@@ -44,16 +45,16 @@ Jonathan Adler says he’s very self-aware, ruminative, overthinking, and contra
 
 ### Failure
 
-> “You need to be able to control how much failure affects you so that it doesn’t shut you down. That can be where the biggest growth spurts happen.”
-> - Jon Favreau
+_“You need to be able to control how much failure affects you so that it doesn’t shut you down. That can be where the biggest growth spurts happen.”_
+<div style="text-align: right">- Jon Favreau</div>
 
 It seemed like the one subject every speaker at Adobe Max had in common was failure. We all know the drill; failure is inevitable, we can’t let it get in the way, and we need to face it head-on. But that’s easier said than done. [James Victore](https://max.adobe.com/sessions/max-online/#19937) went the extra mile and said to turn your failure into your purpose. Jon Favreau said you need to be mindful of how failure interacts with your process. Jonathan Adler said that every idea is a bad idea and that there are a million reasons why you shouldn’t do everything. How are those for some pep talks?
 
 
 ### Purpose
 
-> “Put it in your work.”
-> - James Victore
+_“Put it in your work.”_
+<div style="text-align: right">- James Victore</div>
 
 Creativity and expression are a big part of the reason we get up in the morning. All 12,000 people there could most likely agree on that. And that was empowering. In Katrin Eismann’s “A Photo A Day” session, she stated that a big reason we get up in the morning is to create and express.
 
@@ -67,8 +68,8 @@ In Noreen Morioka’s “Creative Group Therapy” [session](https://max.adobe.c
 To not go crazy in this life, you need to have peace with all the uncertainties. This is hard for me to reckon with. But then I think about all the ways that creativity brings meaning into my life and I feel peace. No matter what happens, I know I can express ideas and emotions in a fresh way. I should be open to all scenarios. Not everyone has the privilege of knowing a creative tool or having multiple outlets like we can as designers / developers / etc. That is fulfilling.
 
 ## Brains
-> “A brain that can’t feel can’t make a decision”
-> - Adam Morgan
+_“A brain that can’t feel can’t make a decision”_
+<div style="text-align: right">- Adam Morgan</div>
 
 One of the standout sessions I attended was “How to Prove the Value of Design—with Science” by [Adam Morgan](https://max.adobe.com/sessions/max-online/#20025). This session covered the relationship between science (which is logical) and creativity (which is emotional).
 
