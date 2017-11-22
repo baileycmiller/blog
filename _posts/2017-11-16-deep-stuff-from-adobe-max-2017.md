@@ -18,12 +18,12 @@ There are all sorts of nerdy technical details I learned at Adobe Max. But I’m
 ## How to Make the Most of Conferences:
 
 
-- <b>Caffeinate.</b> I forgot about caffeine until the 3rd day. Untapped potential is what that was.
--  <b>Take pictures and notes galore.</b> Just do it a bunch. Want to snap a pic of that random sign or that keynote slide? Might as well! You can synthesize it all later. In the moment, take in as much as the experience as you can.
-- <b>Take more hands-on labs if they’re available.</b> Upon registering for sessions at Adobe Max, you’re given the choice between sessions, labs, and creativity workshops. I only registered for one lab (the rest were sessions) and I regretted not taking more labs. During my lab, I learned a solid workflow for working with Adobe XD. It was definitely one of the best courses I took in the conference because of that hands-on learning vibe.
-- <b>Conferences are a great time to curate your inspirational people list.</b> The people chosen for keynotes and sessions are there for a reason. They’re all amazing! Take notes on who’s there so you can look them up later. It’s a great time to expand your list of people to follow on social media, authors of books to read, etc.
-- <b>It’s okay to be an introvert.</b> Be prepared to meet a lot of nice people. But at the same time, it’s okay to be an introvert. It’s okay to leave early. It’s okay to recharge and rest. Don’t beat yourself up. Don’t try to fit a mold of an extrovert if it’s not you. Do what’s best for yourself first and foremost.
-- <b>Don’t let FOMO control you.</b> It’s okay to not take every opportunity. It’s okay to skip a few sessions. You can’t do it all.
+- **Caffeinate.** I forgot about caffeine until the 3rd day. Untapped potential is what that was.
+-  **Take pictures and notes galore.** Just do it a bunch. Want to snap a pic of that random sign or that keynote slide? Might as well! You can synthesize it all later. In the moment, take in as much as the experience as you can.
+- **Take more hands-on labs if they’re available.** Upon registering for sessions at Adobe Max, you’re given the choice between sessions, labs, and creativity workshops. I only registered for one lab (the rest were sessions) and I regretted not taking more labs. During my lab, I learned a solid workflow for working with Adobe XD. It was definitely one of the best courses I took in the conference because of that hands-on learning vibe.
+- **Conferences are a great time to curate your inspirational people list.** The people chosen for keynotes and sessions are there for a reason. They’re all amazing! Take notes on who’s there so you can look them up later. It’s a great time to expand your list of people to follow on social media, authors of books to read, etc.
+- **It’s okay to be an introvert.** Be prepared to meet a lot of nice people. But at the same time, it’s okay to be an introvert. It’s okay to leave early. It’s okay to recharge and rest. Don’t beat yourself up. Don’t try to fit a mold of an extrovert if it’s not you. Do what’s best for yourself first and foremost.
+- **Don’t let FOMO control you.** It’s okay to not take every opportunity. It’s okay to skip a few sessions. You can’t do it all.
 
 
 Okay, now we can get to the deep stuff.
@@ -33,12 +33,14 @@ Okay, now we can get to the deep stuff.
 _“It’s in you and it’s gotta come out.”_
 
 <div style="text-align: right">-James Victore</div>
+<br/>
 
 
 ### The Internal Struggle
 
 _“I absolutely hate myself at the same time I love myself. That dichotomy is the fuel for my creative process.”_
 <div style="text-align: right">- Jonathan Adler</div>
+<br/>
 
 My favorite personality at Adobe Max was Jonathan Adler. This potter, designer, and author has a fiery spirit and an honest view of himself that fuels his creative journey in a fresh way. I’m always privy to people that can be open about their mental struggles in a way that is inspiring, honest, and/or funny. This is what Jonathan Adler was in his [keynote](https://max.adobe.com/sessions/max-online/#20423).
 
@@ -49,6 +51,7 @@ Jonathan Adler says he’s very self-aware, ruminative, overthinking, and contra
 
 _“You need to be able to control how much failure affects you so that it doesn’t shut you down. That can be where the biggest growth spurts happen.”_
 <div style="text-align: right">- Jon Favreau</div>
+<br/>
 
 It seemed like the one subject every speaker at Adobe Max had in common was failure. We all know the drill; failure is inevitable, we can’t let it get in the way, and we need to face it head-on. But that’s easier said than done. [James Victore](https://max.adobe.com/sessions/max-online/#19937) went the extra mile and said to turn your failure into your purpose. Jon Favreau said you need to be mindful of how failure interacts with your process. Jonathan Adler said that every idea is a bad idea and that there are a million reasons why you shouldn’t do everything. How are those for some pep talks?
 
@@ -57,6 +60,7 @@ It seemed like the one subject every speaker at Adobe Max had in common was fail
 
 _“Put it in your work.”_
 <div style="text-align: right">- James Victore</div>
+<br/>
 
 Creativity and expression are a big part of the reason we get up in the morning. All 12,000 people there could most likely agree on that. And that was empowering. In Katrin Eismann’s “A Photo A Day” session, she stated that a big reason we get up in the morning is to create and express.
 
@@ -72,6 +76,7 @@ To not go crazy in this life, you need to have peace with all the uncertainties.
 ## Brains
 _“A brain that can’t feel can’t make a decision”_
 <div style="text-align: right">- Adam Morgan</div>
+<br/>
 
 One of the standout sessions I attended was “How to Prove the Value of Design—with Science” by [Adam Morgan](https://max.adobe.com/sessions/max-online/#20025). This session covered the relationship between science (which is logical) and creativity (which is emotional).
 
